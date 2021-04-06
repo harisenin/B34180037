@@ -1,0 +1,3 @@
+print("NAMA	: MUHAMMAD HARIS ABIDIN");
+print("KELAS	: TIF 2018A");
+print("KAMPUS	: UNUSIDA");
